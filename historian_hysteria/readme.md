@@ -1,5 +1,10 @@
 Copied from: https://adventofcode.com/2024/day/1
 
+
+|![Group of Elvish Senior Historians finding an assortment of two lists of location numbers in the office of the Chief Historian who went missing. --v 6.1 - Art Created by Midjourney](https://media.discordapp.net/attachments/1221829775685976114/1312740126660624484/aleksandrosharky_Goup_of_Elvish_Senior_Historians_finding_an_as_5af53024-c619-4559-a724-4770096b6ac7.png?ex=674d9803&is=674c4683&hm=10d29bf15e3e69b26625a74019603f891ce0ef0358997ddae8656aba13f53e9a&=&format=webp&quality=lossless&width=585&height=585)|
+|:--:|
+|*Group of Elvish Senior Historians finding an assortment of two lists of location numbers in the office of the Chief Historian who went missing. --v 6.1 - Art Created by Midjourney*|
+
 --- Day 1: Historian Hysteria ---
 
 The Chief Historian is always present for the big Christmas sleigh launch, but nobody has seen him in months! Last anyone heard, he was visiting locations that are historically significant to the North Pole; a group of Senior Historians has asked you to accompany them as they check the places they think he was most likely to visit.
