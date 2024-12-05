@@ -1,15 +1,8 @@
-import re
-
-# BFS maze - left, right. up, down, diagonals on
 def read_file(name: str):
     with open(name, 'rt') as f:
         lines = f.readlines()
         f.close()
     return lines
-
-
-def traverse(array_maze, i, j, stack):
-    pass
 
 
 def count_number_xmas(location_list: list):
