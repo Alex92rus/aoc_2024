@@ -1,6 +1,6 @@
 
 
-|![Group of Elvish Senior Historians, searching red-nosed engineering reports in a red-nosed reactor. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures --v 6.1 - Art Created by Midjourney](https://media.discordapp.net/attachments/1221829775685976114/1313062262164029481/aleksandrosharky_Group_of_Elvish_Senior_Historians_searching_re_6335388a-159d-45c8-aec7-3a24d0ddcc2f.png?ex=674ec406&is=674d7286&hm=00fd52cca2643dffb5d9bdc6a597e6701fadf5271e728a6cc0ed461efc986407&=&format=webp&quality=lossless&width=585&height=585)|
+|![Group of Elvish Senior Historians, searching red-nosed engineering reports in a red-nosed reactor. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures --v 6.1 - Art Created by Midjourney](https://media.discordapp.net/attachments/1221829775685976114/1313062262164029481/aleksandrosharky_Group_of_Elvish_Senior_Historians_searching_re_6335388a-159d-45c8-aec7-3a24d0ddcc2f.png?ex=67536146&is=67520fc6&hm=ac67f99c0e5e418b4e88ebe12290dfa39bf7b25ce9a9fe67ae216ab831f22f42&=&format=webp&quality=lossless&width=585&height=585)|
 |:--:|
 |*Group of Elvish Senior Historians, searching red-nosed engineering reports in a red-nosed reactor. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures - Art Created by Midjourney*|
 
