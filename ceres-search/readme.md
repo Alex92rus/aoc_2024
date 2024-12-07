@@ -1,8 +1,8 @@
 
 
-|![Group of Senior Elvish Historians on the Planet Ceres helped by an elf girl, looking for Christmas at a monitoring station. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures. - Art Created by Midjourney](https://media.discordapp.net/attachments/1221829775685976114/1314115720346341437/aleksandrosharky_Group_of_Senior_Elvish_Historians_on_the_Plane_8cc01137-b816-4086-acaf-c6c335210912.png?ex=67529922&is=675147a2&hm=8b85c643aedc41622b8f4fea93e42bcf211703496133b5cec5c3f267d5d5d785&=&format=webp&quality=lossless&width=585&height=585)|
-|:--:|
-|*Group of Senior Elvish Historians on the Planet Ceres helped by an elf girl, looking for Christmas at a monitoring station. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures. - Art Created by Midjourney*|
+| ![Group of Senior Elvish Historians on the Planet Ceres helped by an elf girl, looking for Christmas at a monitoring station. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures. - Art Created by Midjourney](/images/ceres_search.png) |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|              *Group of Senior Elvish Historians on the Planet Ceres helped by an elf girl, looking for Christmas at a monitoring station. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures. - Art Created by Midjourney*               |
 
 Copied from: https://adventofcode.com/2024/day/4
 

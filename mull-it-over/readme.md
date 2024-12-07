@@ -1,8 +1,8 @@
 
 
-|![Group of Elvish Senior Historians helping out a mildly flustered shopkeeper at the North Pole Toboggan Rental Shop who having issues with the shop computers. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures. - Art Created by Midjourney](https://media.discordapp.net/attachments/1221829775685976114/1313771328070746112/aleksandrosharky_Group_of_Elvish_Senior_Historians_helping_out__f05b502e-6489-4d6b-a8ea-dcdcf9656eef.png?ex=675352a5&is=67520125&hm=81333f8e4a440544908f95184f96adf7fcd09c533d2f343ef7beddbdcb0af4fd&=&format=webp&quality=lossless&width=585&height=585)|
-|:--:|
-|*Group of Elvish Senior Historians helping out a mildly flustered shopkeeper at the North Pole Toboggan Rental Shop who having issues with the shop computers. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures.- Art Created by Midjourney*|
+| ![Group of Elvish Senior Historians helping out a mildly flustered shopkeeper at the North Pole Toboggan Rental Shop who having issues with the shop computers. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures. - Art Created by Midjourney](/images/mull-it-over.png) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|               *Group of Elvish Senior Historians helping out a mildly flustered shopkeeper at the North Pole Toboggan Rental Shop who having issues with the shop computers. Sharp attention to detail, realism and a strong sense of nostalgia and warmth, sharp attention to small details and textures.- Art Created by Midjourney*               |
 
 Copied from: https://adventofcode.com/2024/day/3
 

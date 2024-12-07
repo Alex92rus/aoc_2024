@@ -1,9 +1,9 @@
 Copied from: https://adventofcode.com/2024/day/1
 
 
-|![Group of Elvish Senior Historians finding an assortment of two lists of location numbers in the office of the Chief Historian who went missing. --v 6.1 - Art Created by Midjourney](https://media.discordapp.net/attachments/1221829775685976114/1312740126660624484/aleksandrosharky_Goup_of_Elvish_Senior_Historians_finding_an_as_5af53024-c619-4559-a724-4770096b6ac7.png?ex=6752de03&is=67518c83&hm=bba519937684d382d2d1d0e831818c784a6261a8d73ffbbd9cedade18053dee7&=&format=webp&quality=lossless&width=585&height=585)|
-|:--:|
-|*Group of Elvish Senior Historians finding an assortment of two lists of location numbers in the office of the Chief Historian who went missing. --v 6.1 - Art Created by Midjourney*|
+| ![Group of Elvish Senior Historians finding an assortment of two lists of location numbers in the office of the Chief Historian who went missing. --v 6.1 - Art Created by Midjourney](/images/historian_hysteria.png) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                 *Group of Elvish Senior Historians finding an assortment of two lists of location numbers in the office of the Chief Historian who went missing. --v 6.1 - Art Created by Midjourney*                  |
 
 --- Day 1: Historian Hysteria ---
 
